@@ -1,1 +1,9 @@
-
+#include<stdio.h>
+int main()
+ {
+ char isim[20];
+ Printf("Bir isim giriniz : ");
+Scanf("%s",isim);
+printf("merhaba %s", isim);
+return(0); 
+}
