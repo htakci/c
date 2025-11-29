@@ -1,6 +1,6 @@
 #include<stdio.h>
- int main()
- {
+int main()
+{
  printf("merhaba dunya");
-return(0); 
+ return(0); 
 }
